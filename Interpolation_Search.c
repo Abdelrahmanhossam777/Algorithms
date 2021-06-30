@@ -7,24 +7,24 @@
 #include <stdio.h>
 
 /*****************************************************************************************/
-/*Function: interpolation_Search       		                         			         */
-/*I/P Parameters:  int length, int number           			                         */
-/*Returns:it returns index of the number if found or -1 if it is not found               */
-/*Desc:This Function applies the Interpolation search Algorithm                          */
+/*Function: interpolation_Search       		                         			         
+/*I/P Parameters:  int length, int number           			                         
+/*Returns:it returns index of the number if found or -1 if it is not found               
+/*Desc:This Function applies the Interpolation search Algorithm                          
 /*****************************************************************************************/
 int interpolation_Search( int length, int number);
 /******************************************************************************/
-/*Function: simple_sort         		                         			  */
-/*I/P Parameters: int array[], int length               		              */
-/*Returns:it returns a sorted array                                           */
-/*Desc:This Function applies the selection Sort  Algorithm  		          */
+/*Function: simple_sort         		                         			  
+/*I/P Parameters: int array[], int length               		              
+/*Returns:it returns a sorted array                                           
+/*Desc:This Function applies the selection Sort  Algorithm  		          
 /******************************************************************************/
 void simple_sort (int length);
 /******************************************************************************/
-/*Function: swap                		                         			  */
-/*I/P Parameters: int *first, int *second           			              */
-/*Returns:it returns index of the number if found or -1 if it is not found    */
-/*Desc:This Function applies the Linear search Algorithm  		              */
+/*Function: swap                		                         			  
+/*I/P Parameters: int *first, int *second           			              
+/*Returns:it returns index of the number if found or -1 if it is not found    
+/*Desc:This Function applies the Linear search Algorithm  		              
 /******************************************************************************/
 void swap(int *first, int *second);
 
