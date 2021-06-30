@@ -7,17 +7,17 @@
 #include <stdio.h>
 
 /******************************************************************************/
-/*Function: Insertion_sort         		                         			  */
-/*I/P Parameters: int length                               		              */
-/*Returns:it returns a sorted array                                           */
-/*Desc:This Function applies the Insertion Sort  Algorithm  		          */
+/*Function: Insertion_sort         		                         			  
+/*I/P Parameters: int length                               		             
+/*Returns:it returns a sorted array                                           
+/*Desc:This Function applies the Insertion Sort  Algorithm  		          
 /******************************************************************************/
 void Insertion_sort (int length);
 /******************************************************************************/
-/*Function: swap                		                         			  */
-/*I/P Parameters: int *first, int *second           			              */
-/*Returns:it returns index of the number if found or -1 if it is not found    */
-/*Desc:This Function applies the Linear search Algorithm  		              */
+/*Function: swap                		                         			  
+/*I/P Parameters: int *first, int *second           			              
+/*Returns:it returns index of the number if found or -1 if it is not found    
+/*Desc:This Function applies the Linear search Algorithm  		              
 /******************************************************************************/
 void swap(int *first, int *second);
 
