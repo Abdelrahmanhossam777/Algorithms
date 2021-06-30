@@ -7,17 +7,17 @@
 #include <stdio.h>
 
 /******************************************************************************/
-/*Function: simple_sort         		                         			            
-/*I/P Parameters: int length                               		                
-/*Returns:it returns a sorted array                                           
-/*Desc:This Function applies the selection Sort  Algorithm  		              
+/*Function: simple_sort         		                         			            */
+/*I/P Parameters: int length                               		                */
+/*Returns:it returns a sorted array                                           */
+/*Desc:This Function applies the selection Sort  Algorithm  		              */
 /******************************************************************************/
 void selection_sort (int length);
 /******************************************************************************/
-/*Function: swap                		                         			            
-/*I/P Parameters: int *first, int *second           			                    
-/*Returns:it returns index of the number if found or -1 if it is not found    
-/*Desc:This Function applies the Linear search Algorithm  		                
+/*Function: swap                		                         			            */
+/*I/P Parameters: int *first, int *second           			                    */
+/*Returns:it returns index of the number if found or -1 if it is not found    */
+/*Desc:This Function applies the Linear search Algorithm  		                */
 /******************************************************************************/
 void swap(int *first, int *second);
 
