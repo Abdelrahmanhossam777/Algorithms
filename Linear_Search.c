@@ -7,10 +7,10 @@
 #include <stdio.h>
 
 /******************************************************************************/
-/*Function: linear_search       		                         		          	  */
-/*I/P Parameters: int array[], int length, int number			                    */
-/*Returns:it returns index of the number if found or -1 if it is not found    */
-/*Desc:This Function applies the Linear search Algorithm  		                */
+/*Function: linear_search       		                         		          	  
+/*I/P Parameters: int array[], int length, int number			                    
+/*Returns:it returns index of the number if found or -1 if it is not found    
+/*Desc:This Function applies the Linear search Algorithm  		                
 /******************************************************************************/
 int linear_search(int array[], int length, int number);
 
